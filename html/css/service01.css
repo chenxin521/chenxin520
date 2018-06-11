@@ -113,10 +113,6 @@ a{
 	left: 216px;
 	bottom: 20px;
 }
-/*.nav form{
-	padding-top:  30px;
-	float: right;
-}*/
 .header{
 	width: 100%;
 	height: 166px;
@@ -125,8 +121,9 @@ a{
 }
 .head{
 	width:1200px;
-	padding-left: 163px;
 	padding-top: 15px;
+	text-align: left;
+	margin: 0 auto;
 }
 .one{
 	font-size:14px;
@@ -138,12 +135,10 @@ a{
 }
 .three{
 	margin-top: 63px;
-	padding-left: 163px;
 	font-size:24px;
 	color: #3e3e3e;
 }
 .four{
-	padding-left: 163px;
 	padding-top: 11px;
 	font-size:14px;
 	color: #666666;
@@ -155,8 +150,8 @@ a{
 .five{
 	width: 1200px;
 	padding-top: 11px;
-	margin-left:163px;
 	background-color: #f9f9f9;
+	margin: 0 auto;
 }
 .banner{
 	width: 100%;
@@ -169,24 +164,25 @@ a{
 	height: 200px;
 	margin:0 auto;	
 }
-/*.box2{
-	width: 84px;
-	height: 310px;
-	padding-left: 1400px;
-}*/
 .box3{
-	padding-left: 163px;
+	width: 1200px;
+	margin: 0 auto;
+	text-align: left;
+}
+.box3 p{
 	margin-top: 45px;
 	font-size:20px; 
 	color: #2756a4;
 }
 .box4{
-	width: 1160px;
+	width: 1200px;
 	height:80px;
 	text-align: left;
-	padding-left: 163px;
 	margin-top: 30px;
-	
+	margin: 0 auto;	
+}
+.box4 p{
+	margin-top: 30px;
 }
 .p1{
 	font-size:16px;
